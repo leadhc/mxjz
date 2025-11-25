@@ -1,0 +1,9 @@
+# Ignore artifacts:
+node_modules/
+uni_modules/
+unpackage/
+dist/
+build/
+coverage/
+.env
+*.log

@@ -1,0 +1,168 @@
+{
+  "pages": [
+    {
+      "path": "pages/index/index",
+      "style": {
+        "navigationBarTitleText": "妙享记账"
+      }
+    },
+    {
+      "path": "pages/account/account",
+      "style": {
+        "navigationBarTitleText": "记账"
+      }
+    },
+    {
+      "path": "pages/forum/forum",
+      "style": {
+        "navigationBarTitleText": "论坛"
+      }
+    },
+    {
+      "path": "pages/profile/profile",
+      "style": {
+        "navigationBarTitleText": "我的"
+      }
+    }
+  ],
+  "globalStyle": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+
+  "tabBar": {
+    "color": "#94a3b8",
+    "selectedColor": "#3b82f6",
+    "backgroundColor": "#fff",
+    "borderStyle": "white",
+    "iconWidth": "16px",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "iconPath": "/static/tabtar/首页.png",
+        "selectedIconPath": "/static/tabtar/首页active.png",
+        "text": "首页"
+      },
+      {
+        "pagePath": "pages/account/account",
+        "iconPath": "/static/tabtar/记账.png",
+        "selectedIconPath": "/static/tabtar/记账active.png",
+        "text": "记账"
+      },
+      {
+        "pagePath": "pages/forum/forum",
+        "text": "论坛",
+        "iconPath": "/static/tabtar/论坛.png",
+        "selectedIconPath": "/static/tabtar/论坛active.png"
+      },
+      {
+        "pagePath": "pages/profile/profile",
+        "text": "我的",
+        "iconPath": "/static/tabtar/user.png",
+        "selectedIconPath": "/static/tabtar/useractive.png"
+      }
+    ]
+  },
+  "subPackages": [
+    {
+      "root": "subPages",
+      "pages": [
+        {
+          "path": "monthOver/monthOver",
+          "style": {
+            "navigationBarTitleText": "本月详情"
+          }
+        },
+        {
+          "path": "billAll/billAll",
+          "style": {
+            "navigationBarTitleText": "交易记录"
+          }
+        },
+        {
+          "path": "articleDetail/articleDetail",
+          "style": {
+            "navigationBarTitleText": "文章详情"
+          }
+        },
+        {
+          "path": "personInfo/personInfo",
+          "style": {
+            "navigationBarTitleText": "个人信息"
+          }
+        },
+        {
+          "path": "noticeSetting/noticeSetting",
+          "style": {
+            "navigationBarTitleText": "通知设置"
+          }
+        },
+        {
+          "path": "helpfeed/helpfeed",
+          "style": {
+            "navigationBarTitleText": "帮助与反馈"
+          }
+        },
+        {
+          "path": "TransactionDetail/TransactionDetail",
+          "style": {
+            "navigationBarTitleText": "账单详情"
+          }
+        },
+        {
+          "path": "editBill/editBill",
+          "style": {
+            "navigationBarTitleText": "编辑账单"
+          }
+        },
+        {
+          "path": "searchArticle/searchArticle",
+          "style": {
+            "navigationBarTitleText": "搜索文章"
+          }
+        },
+        {
+          "path": "searchResult/searchResult",
+          "style": {
+            "navigationBarTitleText": "搜索结果",
+            "enablePullDownRefresh": true,
+            "onReachBottomDistance": 200
+          }
+        },
+        {
+          "path": "publishArticle/publishArticle",
+          "style": {
+            "navigationBarTitleText": "发布文章"
+          }
+        },
+        {
+          "path": "myFollow/myFollow",
+          "style": {
+            "navigationBarTitleText": "我的关注"
+          }
+        },
+        {
+          "path": "myLikeandCollect/myLikeandCollect",
+          "style": {
+            "navigationBarTitleText": "我的"
+          }
+        },
+        {
+          "path": "myCommon/myCommon",
+          "style": {
+            "navigationBarTitleText": "我的评论"
+          }
+        }
+      ]
+    }
+  ],
+  "preloadRule": {
+    "pages/index/index": {
+      "network": "all",
+      "packages": ["subPages"]
+    }
+  },
+  "uniIdRouter": {}
+}

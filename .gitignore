@@ -1,0 +1,26 @@
+# 统一使用 LF 换行符
+* text=auto
+* eol=lf
+
+# 明确指定常见文件格式
+*.js text=auto eol=lf
+*.vue text=auto eol=lf
+*.css text=auto eol=lf
+*.json text=auto eol=lf
+*.wxml text=auto eol=lf
+*.wxss text=auto eol=lf
+
+node_modules/
+dist/
+build/
+unpackage/dist/
+
+# 日志
+logs/
+*.log
+npm-debug.log*
+
+# 环境变量
+.env
+.env.local
+.env.*.local
