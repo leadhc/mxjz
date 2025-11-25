@@ -32,7 +32,7 @@ export default {
    */
   onHide: function () {
     console.log('App Hide')
-    console.log('测试lint-staged') // 用于测试lint-staged的测试日志
+    console.log('测试lint-staged')
   }
 }
 </script>
