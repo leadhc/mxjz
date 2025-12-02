@@ -83,7 +83,7 @@
 - **通知设置**：个性化通知偏好设置
 
 ### 5. 页面展示
-<div style="display: flex; justify-content: flex-start; flex-wrap: wrap; align-items: center; column-gap: 10px;">
+<p style="display: flex; justify-content: flex-start; flex-wrap: wrap; align-items: center; gap: 10px;">
   <img width="188" height="487" alt="image" src="https://github.com/user-attachments/assets/a27506b8-42e7-450a-bf71-bef99dccae0f" />
 <img width="188" height="487" alt="page14" src="https://github.com/user-attachments/assets/c36179d3-0e88-4cc6-986b-5aff2f883f63" />
 <img width="188" height="487" alt="page1" src="https://github.com/user-attachments/assets/b975c2e9-805c-4cca-9a93-d4c1b541a00b" />
@@ -101,7 +101,7 @@
 <img width="188" height="487" alt="page9" src="https://github.com/user-attachments/assets/40350c34-71b4-4041-b0ca-21c689a71ee5" />
 <img width="188" height="487" alt="page13" src="https://github.com/user-attachments/assets/f6ef9f87-9631-4f74-9ec6-4c32e57fc92e" />
 <img width="188" height="487" alt="page16" src="https://github.com/user-attachments/assets/95bb761d-2466-47e4-8cfe-046faf348237" />
-</div>
+</p>
 
 
 
