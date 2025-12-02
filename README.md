@@ -82,7 +82,30 @@
 - **我的关注**：管理关注的用户和内容
 - **通知设置**：个性化通知偏好设置
 
+### 5. 页面展示
+<img width="581" height="1160" alt="image" src="https://github.com/user-attachments/assets/a27506b8-42e7-450a-bf71-bef99dccae0f" />
+<img width="292" height="592" alt="page14" src="https://github.com/user-attachments/assets/c36179d3-0e88-4cc6-986b-5aff2f883f63" />
+<img width="290" height="587" alt="page1" src="https://github.com/user-attachments/assets/b975c2e9-805c-4cca-9a93-d4c1b541a00b" />
+<img width="292" height="585" alt="page3" src="https://github.com/user-attachments/assets/9753b87d-0a1c-40e0-94d9-fbe2b0e09f62" />
+<img width="293" height="588" alt="page2" src="https://github.com/user-attachments/assets/c8290570-0371-4243-a917-82711c36ef1c" />
+<img width="293" height="583" alt="page15" src="https://github.com/user-attachments/assets/c10db8b3-21b6-4ecd-8824-6aa8459ac91c" />
+<img width="292" height="590" alt="page4" src="https://github.com/user-attachments/assets/83aafd8f-7d4b-4f99-b149-ad74a93b0e92" />
+<img width="292" height="586" alt="page6" src="https://github.com/user-attachments/assets/b5e485d0-d187-405f-878a-91d769f1d713" />
+<img width="286" height="586" alt="page10" src="https://github.com/user-attachments/assets/867e609f-2791-4271-ad04-0ba826627145" />
+<img width="294" height="585" alt="page11" src="https://github.com/user-attachments/assets/0950db4f-3030-4a7c-8253-5fabe6256354" />
+<img width="292" height="586" alt="page5" src="https://github.com/user-attachments/assets/9a93ad46-f5b6-4974-b7aa-43c832a58137" />
+<img width="295" height="589" alt="page12" src="https://github.com/user-attachments/assets/254381e5-778d-4176-a7c3-140173e99d6c" />
+<img width="288" height="587" alt="page7" src="https://github.com/user-attachments/assets/b14e2c13-df2c-4c28-9a10-4c7f2863bcbf" />
+<img width="293" height="577" alt="page8" src="https://github.com/user-attachments/assets/97f96ebd-5589-4564-8425-7ed0b37a75cc" />
+<img width="294" height="589" alt="page9" src="https://github.com/user-attachments/assets/40350c34-71b4-4041-b0ca-21c689a71ee5" />
+<img width="294" height="588" alt="page13" src="https://github.com/user-attachments/assets/f6ef9f87-9631-4f74-9ec6-4c32e57fc92e" />
+<img width="296" height="588" alt="page16" src="https://github.com/user-attachments/assets/95bb761d-2466-47e4-8cfe-046faf348237" />
+
+
+
+
 ## 安装与开发
+
 
 ### 环境要求
 
